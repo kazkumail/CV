@@ -19,7 +19,7 @@ h1{
   color: Black;
 }
 
-p1{
+p1:hover{
   color: #C60021;
   font-size: 18px;
 }
